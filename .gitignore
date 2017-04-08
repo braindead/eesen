@@ -27,3 +27,6 @@ project.xcworkspace
 
 # swp files
 *.swp
+
+asr_egs/*
+tools/*
